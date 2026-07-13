@@ -93,9 +93,8 @@
 
 ---
 
-### 📈 Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.io/39d353/Aharshi3614" alt="Aharshi3614's Github chart" width="90%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aharshi3614" width="90%" />
 </p>
 
 <p align="center">
