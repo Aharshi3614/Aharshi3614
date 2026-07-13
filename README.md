@@ -93,6 +93,16 @@
 
 ---
 
+### 📈 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aharshi3614&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.io/00ff00/Aharshi3614" alt="Aharshi3614's Github chart" width="90%" />
+</p>
+
 <p align="center">
   Open to paid internships in AI/ML, Backend, and Full-Stack roles 🚀
 </p>
