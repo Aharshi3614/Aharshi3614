@@ -93,9 +93,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aharshi3614" width="90%" />
-</p>
 
 <p align="center">
   Open to paid internships in AI/ML, Backend, and Full-Stack roles 🚀
