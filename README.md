@@ -93,14 +93,9 @@
 
 ---
 
-### 📈 Contribution Calendar
-
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aharshi3614&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.io/00ff00/Aharshi3614" alt="Aharshi3614's Github chart" width="90%" />
+  <img src="https://ghchart.rshah.io/39d353/Aharshi3614" alt="Aharshi3614's Github chart" width="90%" />
 </p>
 
 <p align="center">
