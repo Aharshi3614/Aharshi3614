@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aharshi</h1>
-<h3 align="center">AI/ML Engineer in the making | Building RAG systems, chatbots & forecasting pipelines</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aharshi-sinha-16039928b" target="_blank">
@@ -14,6 +13,10 @@
   <a href="https://aharshi3614.github.io/devwhisper-demo" target="_blank">
     <img src="https://img.shields.io/badge/DevWhisper%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+the+making;Building+RAG+Systems+%26+Chatbots" />
 </p>
 
 <p align="center">
