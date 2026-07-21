@@ -64,7 +64,7 @@
   <tr>
     <td width="50%">
       <h4>🗣️ DevWhisper</h4>
-      <p>Voice-first AI dev assistant built solo at HackBLR 2026. Stack: Vapi, FastAPI, Groq/LLaMA 3.3 70B, Qdrant, Deepgram. Reached pre-finals out of ~500 teams.</p>
+      <p>Voice-first AI dev assistant built solo at HackBLR 2026. Stack: Vapi, FastAPI, Groq/LLaMA 3.3 70B, Qdrant, Deepgram.</p>
       <a href="https://github.com/Aharshi3614/Devwhisper">🔗 Repo</a> • <a href="https://aharshi3614.github.io/devwhisper-demo">🎙️ Live Demo</a>
     </td>
     <td width="50%">
