@@ -27,7 +27,7 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year B.Tech CSE (AI & ML) @ IEM Kolkata, 2023–2027
+- 🎓 4th-year B.Tech CSE (AI & ML) @ IEM Kolkata, 2023–2027
 - 🌟 **Google Gemini Student Ambassador**
 - 🛠️ Active contributor @ **SSoC Season 5** 
 - 🏆 Built **DevWhisper** at HackBLR 2026 (Geek Room) — reached pre-finals out of ~500 teams
