@@ -10,9 +10,6 @@
   <a href="mailto:aharshisinha2020@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aharshi3614.github.io/devwhisper-demo" target="_blank">
-    <img src="https://img.shields.io/badge/DevWhisper%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
